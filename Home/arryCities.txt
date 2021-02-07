@@ -1,0 +1,77 @@
+
+[{"id":2563191,"dt":1612094985,"name":"Birkirkara","coord":
+{"Lon":14.4611,"Lat":35.8972},"main":{"temp":13.45,"feels_like":5.65,"temp_min":12.78,"temp_max":14,"pressure":1004,"humidity":67},
+"visibility":10000,"wind":{"speed":10.29,"deg":290},"rain":null,"snow":null,"clouds":{"today":40},"weather":
+[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}]},
+
+{"id":2210247,"dt":1612094982,"name":"Tripoli","coord":{"Lon":13.1875,"Lat":32.8752},
+"main":{"temp":18.44,"feels_like":11.51,"temp_min":18.44,"temp_max":18.44,"pressure":1006,"sea_level":1006,"grnd_level":1004,"humidity":51},
+"visibility":10000,"wind":{"speed":9.27,"deg":277},"rain":null,"snow":null,"clouds":{"today":49},"weather":
+[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}]},
+
+{"id":2216885,"dt":1612094982,"name":"Zawiya","coord":
+{"Lon":12.7278,"Lat":32.7522},
+"main":{"temp":19.08,"feels_like":13.06,"temp_min":19.08,"temp_max":19.08,"pressure":1007,"sea_level":1007,"grnd_level":1004,"humidity":49}
+,"visibility":10000,"wind":{"speed":7.98,"deg":292},"rain":null,"snow":null,"clouds":{"today":75}
+,"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2212771,"dt":1612094982,"name":"Şabrātah","coord":{"Lon":12.4885,"Lat":32.7933},
+"main":{"temp":19.39,"feels_like":13.08,"temp_min":19.39,"temp_max":19.39,"pressure":1007,"sea_level":1007,"grnd_level":1005,"humidity":45},
+"visibility":10000,"wind":{"speed":8.07,"deg":288},"rain":null,"snow":null,"clouds":{"today":71},"weather":
+[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2215163,"dt":1612094982,"name":"Masallātah","coord":{"Lon":14,"Lat":32.6167},
+"main":{"temp":19.52,"feels_like":10.1,"temp_min":19.52,"temp_max":19.52,"pressure":1006,"sea_level":1006,"grnd_level":980,"humidity":35},
+"visibility":10000,"wind":{"speed":11.48,"deg":279},"rain":null,"snow":null,"clouds":{"today":71},"weather":
+[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2219905,"dt":1612094982,"name":"Al Khums","coord":{"Lon":14.2619,"Lat":32.6486},
+"main":{"temp":20.31,"feels_like":13.52,"temp_min":20.31,"temp_max":20.31,"pressure":1006,"sea_level":1006,"grnd_level":1004,"humidity":41},
+"visibility":10000,"wind":{"speed":8.58,"deg":283},"rain":null,"snow":null,"clouds":{"today":49},"weather":
+[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}]},
+
+{"id":2208425,"dt":1612094982,"name":"Zuwārah","coord":{"Lon":12.082,"Lat":32.9312},
+"main":{"temp":17.98,"feels_like":13.65,"temp_min":17.98,"temp_max":17.98,"pressure":1007,"sea_level":1007,"grnd_level":1007,"humidity":53},
+"visibility":10000,"wind":{"speed":5.61,"deg":308},"rain":null,"snow":null,"clouds":{"today":86},"weather":
+[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}]},
+
+{"id":2210221,"dt":1612094982,"name":"Tarhuna","coord":
+{"Lon":13.6332,"Lat":32.435},"main":
+{"temp":19.29,"feels_like":9.09,"temp_min":19.29,"temp_max":19.29,"pressure":1006,"sea_level":1006,"grnd_level":962,"humidity":29},
+"visibility":10000,"wind":{"speed":11.91,"deg":274},"rain":null,"snow":null,"clouds":{"today":67},"weather":
+[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]}
+
+,{"id":2208485,"dt":1612094982,"name":"Zliten","coord":{"Lon":14.5687,"Lat":32.4674},"main":
+{"temp":22.27,"feels_like":15.8,"temp_min":22.27,"temp_max":22.27,"pressure":1006,"sea_level":1006,"grnd_level":1005,"humidity":32},
+"visibility":10000,"wind":{"speed":7.57,"deg":284},"rain":null,"snow":null,"clouds":{"today":31},"weather":
+[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}]},
+
+{"id":2217362,"dt":1612094982,"name":"Gharyan","coord":{"Lon":13.0203,"Lat":32.1722},
+"main":{"temp":17.48,"feels_like":8.2,"temp_min":17.48,"temp_max":17.48,"pressure":1007,"sea_level":1007,"grnd_level":928,"humidity":31},
+"visibility":10000,"wind":{"speed":10.46,"deg":272},"rain":null,"snow":null,"clouds":{"today":61},"weather":
+[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2523693,"dt":1612094932,"name":"Pozzallo","coord":{"Lon":14.8499,"Lat":36.7305},
+"main":{"temp":11.9,"feels_like":6.35,"temp_min":10.56,"temp_max":13,"pressure":1002,"humidity":76},
+"visibility":10000,"wind":{"speed":7.2,"deg":270},"rain":{"1h":0.33},"snow":null,"clouds":{"today":75},
+"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}]},
+
+{"id":2524119,"dt":1612094932,"name":"Modica","coord":{"Lon":14.774,"Lat":36.8459},"main":
+{"temp":11.79,"feels_like":6.21,"temp_min":10.56,"temp_max":13,"pressure":1002,"humidity":76},"visibility":10000,"wind":
+{"speed":7.2,"deg":270},"rain":null,"snow":null,"clouds":{"today":75},
+"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2208791,"dt":1612094982,"name":"Yafran","coord":{"Lon":12.5286,"Lat":32.0633},
+"main":{"temp":17.28,"feels_like":8.53,"temp_min":17.28,"temp_max":17.28,"pressure":1007,"sea_level":1007,"grnd_level":931,"humidity":32},
+"visibility":10000,"wind":{"speed":9.75,"deg":270},"rain":null,"snow":null,"clouds":{"today":72},
+"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2523581,"dt":1612094932,"name":"Rosolini","coord":{"Lon":14.9478,"Lat":36.8242},
+"main":{"temp":11.81,"feels_like":6.24,"temp_min":10.56,"temp_max":13,"pressure":1002,"humidity":76},
+"visibility":10000,"wind":{"speed":7.2,"deg":270},"rain":null,"snow":null,"clouds":{"today":75},
+"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]},
+
+{"id":2523650,"dt":1612094933,"name":"Ragusa","coord":{"Lon":14.7172,"Lat":36.9282},
+"main":{"temp":11.88,"feels_like":6.32,"temp_min":10.56,"temp_max":13,"pressure":1002,"humidity":76},
+"visibility":10000,"wind":{"speed":7.2,"deg":270},"rain":null,"snow":null,"clouds":{"today":75},
+"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]}]

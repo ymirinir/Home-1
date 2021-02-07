@@ -1,0 +1,18 @@
+{ 
+    "Netivot":"approved",
+    "Jerusalem":"unapproved",
+    "Birkirkara":"approved",
+    "Zawiya":"unapproved",
+    "Gharyan":"approved",
+    "Pozzallo":"unapproved",
+    "Yafran":"approved",
+    "Rosolini":"approved",
+    "Ragusa":"approved",
+    "Eylat":"approved",
+    "Ashdod":"approved",
+    "Hifa":"approved",
+    "Cholon":"approved",
+    "Hadera":"approved",
+    "Rechovot":"unapproved"
+
+}
